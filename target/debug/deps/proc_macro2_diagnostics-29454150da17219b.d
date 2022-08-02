@@ -1,0 +1,10 @@
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\proc_macro2_diagnostics-29454150da17219b.rmeta: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\libproc_macro2_diagnostics-29454150da17219b.rlib: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\proc_macro2_diagnostics-29454150da17219b.d: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs:

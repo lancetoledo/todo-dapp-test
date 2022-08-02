@@ -1,0 +1,12 @@
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\yansi-a3bbde22a3ffffc4.rmeta: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\macros.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\windows.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\paint.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\style.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\color.rs
+
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\libyansi-a3bbde22a3ffffc4.rlib: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\macros.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\windows.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\paint.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\style.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\color.rs
+
+c:\Users\lance\Desktop\Projects\Sandbox\bts-solana-todo-app\target\debug\deps\yansi-a3bbde22a3ffffc4.d: C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\lib.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\macros.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\windows.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\paint.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\style.rs C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\color.rs
+
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\lib.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\macros.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\windows.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\paint.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\style.rs:
+C:\Users\lance\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.1\src\color.rs:
